@@ -14,4 +14,9 @@ void main(List<String> args) {
   print('---------');
   print(x);
   print(y);
+  print( 5== 2); // equal
+  print( 5!= 2); // not equal
+  print( 5>= 2); // greater than or equal
+  print( 5> 2); // greater than
+  
 }
