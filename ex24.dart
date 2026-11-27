@@ -1,8 +1,6 @@
-import 'dart:ffi';
-
 void main(List<String> args) {
-  var cities = ['London', 'Paris', 'Moscoe'];
+  var cities = ['London', 'Paris', 'Moscow'];
   print(cities.length);
   print([].isEmpty);
   print([].isNotEmpty);
-} 
+}
